@@ -1,1 +1,2 @@
-##OpenMyth
+### OpenMyth
+An opened OS.
